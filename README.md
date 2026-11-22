@@ -414,3 +414,10 @@ endpoints are the most useful contributions. Keep it single-file.
 ## License
 
 MIT
+
+
+
+Example below:
+
+<img width="317" height="749" alt="image" src="https://github.com/user-attachments/assets/14b84db5-c2d3-4c48-a2b9-056426809c62" />
+
